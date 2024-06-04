@@ -1,6 +1,6 @@
 # challenge2
 
-A new Flutter project.
+CRUD Event Management App.
 
 ## Getting Started
 
